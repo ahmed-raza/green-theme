@@ -70,6 +70,14 @@ header{
 .main-menu .menu li.active {
   background-color: #499B4D;
 }
+.flexslider {
+  margin-top: -4px !important;
+  margin-left: -4px !important;
+  margin-right: -4px !important;
+  -moz-margin-top: -3px !important;
+  -moz-margin-left: -3px !important;
+  -moz-margin-bottom: -3px !important;
+}
 .flexslider li > div {
   height: 597px;
   background-position: center center !important;
